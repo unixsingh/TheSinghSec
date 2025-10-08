@@ -40,7 +40,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 ---
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''> Knowledge </h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -59,6 +59,34 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 ---
 
+## Skills🧠
+
+![Web Applications and APIs](https://img.shields.io/badge/-Web%20Apps%20%26%20APIs-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1E90FF)
+![External and Internal Infrastructure](https://img.shields.io/badge/-Infrastructure-0D1117?style=for-the-badge&logo=linux&logoColor=DA1F26)
+![LLMs and Gen AI Apps Testing](https://img.shields.io/badge/-Gen%20AI%20App%20Testing-0D1117?style=for-the-badge&logo=openai&logoColor=FF8C00)
+![Thick Client Applications](https://img.shields.io/badge/-Thick%20Client%20Apps-0D1117?style=for-the-badge&logo=windows&logoColor=5C2D91)
+![Server/Laptop Build Reviews](https://img.shields.io/badge/-System%20Build%20Reviews-0D1117?style=for-the-badge&logo=dell&logoColor=32CD32)
+![Android/iOS Mobile Applications](https://img.shields.io/badge/-Mobile%20App%20Testing-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
+![System Breakout Testing](https://img.shields.io/badge/-System%20Breakout%20Testing-0D1117?style=for-the-badge&logo=redhat&logoColor=DC143C)
+![Azure/AWS/GCP Configuration Reviews](https://img.shields.io/badge/-Cloud%20Config%20Reviews-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00BFFF)
+![Email Phishing](https://img.shields.io/badge/-Email%20Phishing%20Testing-0D1117?style=for-the-badge&logo=maildotru&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+
+
+## Certifications🎓
+<div>
+<img src="https://img.shields.io/badge/-OSCP-DA1F26?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-PNPT-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/-CASA-2E8B57?style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+
+## Projects
+
+![Web Application Home Lab](https://img.shields.io/badge/Web%20Application%20Home%20Lab-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Active Directory Home Lab](https://img.shields.io/badge/Active%20Directory%20Home%20Lab-004B23?style=for-the-badge&logo=microsoft&logoColor=white)
+![GOAD on VMware](https://img.shields.io/badge/GOAD%20on%20VMware-191970?style=for-the-badge&logo=vmware&logoColor=white)
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
  
