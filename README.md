@@ -62,7 +62,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-  [![TheSinghSec's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thesinghsec&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thesinghsec/github-readme-stats#gh-dark-mode-only)
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesinghsec&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/thesinghsec/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=thesinghsec&theme=burnt-neon&border_radius=5&fire=EBCA01&ring=FF5B5B&currStreakNum=66FF00&sideNums=66FF00&sideLabels=EBEBEB)](https://git.io/streak-stats)
 
 <h2 id="donate" align=''> Support⚡️</h2>
