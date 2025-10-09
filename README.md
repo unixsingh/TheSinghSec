@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2F9F09&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+TheSinghSec+%3C3;Welcome+to+my+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2F9F09&duration=2500&pause=1000&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+TheSinghSec+%3C3;Welcome+to+my+profile!" alt="Title">
 </div>
 
 
@@ -139,9 +139,25 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 ![GOAD on VMware](https://img.shields.io/badge/GOAD%20on%20VMware-191970?style=for-the-badge&logo=vmware&logoColor=white)
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
- 
+
+<table>
+<tr>
+<td width="55%">
+
   [![TheSinghSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesinghsec&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/thesinghsec/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=thesinghsec&theme=burnt-neon&border_radius=5&fire=EBCA01&ring=FF5B5B&currStreakNum=66FF00&sideNums=66FF00&sideLabels=EBEBEB)](https://git.io/streak-stats)
+
+</td>
+<td width="45%" align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=350&lines=Access+Granted...;Initializing+Recon+Mode...;Deploying+Payload...;Exfiltrating+Data..." alt="hacker animation">
+</td>
+</tr>
+</table>
+
+
+
+
+  
 
 <h2 id="donate" align="center"> Support⚡️</h2>
 
