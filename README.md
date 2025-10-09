@@ -13,7 +13,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 ---
 
-<h2 align="left">🧭 Present Status</h2>
+<h2 align="left">Present Status 🧭</h2>
 
 <table align="center" style="border-collapse: separate; border-spacing: 18px;">
   <tr>
@@ -200,7 +200,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 ---
 
-## Skills🧠
+## Skills 🧠
 
 <div style="border:2px solid transparent;border-radius:10px;padding:20px;margin-bottom:20px;">
   <div align="left" style="display:flex;flex-wrap:wrap;justify-content:left;gap:10px;">
@@ -232,7 +232,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 
 
 
-## Certifications🎓
+## Certifications 🎓
 <div>
 <img src="https://img.shields.io/badge/-OSCP-DA1F26?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-PNPT-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -240,7 +240,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 </div>
 
 
-## Projects🚀
+## Projects 🚀
 
 ![Web Application Home Lab](https://img.shields.io/badge/Web%20Application%20Home%20Lab-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Active Directory Home Lab](https://img.shields.io/badge/Active%20Directory%20Home%20Lab-004B23?style=for-the-badge&logo=microsoft&logoColor=white)
