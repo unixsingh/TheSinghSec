@@ -138,21 +138,30 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
 ![Active Directory Home Lab](https://img.shields.io/badge/Active%20Directory%20Home%20Lab-004B23?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GOAD on VMware](https://img.shields.io/badge/GOAD%20on%20VMware-191970?style=for-the-badge&logo=vmware&logoColor=white)
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<table>
-<tr>
-<td width="55%">
 
-  [![TheSinghSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesinghsec&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/thesinghsec/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=thesinghsec&theme=burnt-neon&border_radius=5&fire=EBCA01&ring=FF5B5B&currStreakNum=66FF00&sideNums=66FF00&sideLabels=EBEBEB)](https://git.io/streak-stats)
 
-</td>
-<td width="45%" align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=350&lines=Access+Granted...;Initializing+Recon+Mode...;Deploying+Payload...;Exfiltrating+Data..." alt="hacker animation">
-</td>
-</tr>
-</table>
+<h2 id="github_stats" style="text-align:center;">GitHub Stats 👨‍💻</h2>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <!-- Left column: GitHub stats and streaks -->
+  <div style="flex: 0 0 55%; min-width: 300px; text-align: center;">
+    <a href="https://github.com/thesinghsec/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=thesinghsec&theme=vision-friendly-dark&hide_border=true&custom_title= " alt="GitHub Stats" style="width:100%; max-width:450px;">
+    </a>
+    <br><br>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=thesinghsec&theme=burnt-neon&border_radius=5&fire=EBCA01&ring=FF5B5B&currStreakNum=66FF00&sideNums=66FF00&sideLabels=EBEBEB" alt="GitHub Streak" style="width:100%; max-width:450px;">
+    </a>
+  </div>
+  <!-- Right column: Typing animation -->
+  <div style="flex: 0 0 45%; min-width: 300px; text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=350&lines=Access+Granted...;Initializing+Recon+Mode...;Deploying+Payload...;Exfiltrating+Data..." alt="hacker animation" style="max-width:100%;">
+  </div>
+
+</div>
+
+
 
 
 
