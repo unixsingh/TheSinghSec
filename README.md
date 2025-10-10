@@ -205,6 +205,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
     <img class="badge" src="https://img.shields.io/badge/SecretsDump-0D1117?style=for-the-badge&labelColor=111827&logo=1password&logoColor=white" alt="SecretsDump" />
     <img class="badge" src="https://img.shields.io/badge/Sliver-0D1117?style=for-the-badge&labelColor=111827&logo=slack&logoColor=white" alt="Sliver" />
     <img class="badge" src="https://img.shields.io/badge/Evilginx2-0D1117?style=for-the-badge&labelColor=111827&logo=letsencrypt&logoColor=FFD700" alt="Evilginx2" />
+    <img class="badge" src="https://img.shields.io/badge/🛠️_Ghidra-0D1117?style=for-the-badge&labelColor=111827&logo=ghidra&logoColor=FFA500" alt="Ghidra" />
     <img class="badge" src="https://img.shields.io/badge/Linux%20Exploit%20Suggester-0D1117?style=for-the-badge&labelColor=111827&logo=linux&logoColor=white" alt="Linux Exploit Suggester" />
     <img class="badge" src="https://img.shields.io/badge/LinPEAS-0D1117?style=for-the-badge&labelColor=111827&logo=linux&logoColor=white" alt="LinPEAS" />
     <img class="badge" src="https://img.shields.io/badge/WinPEAS-0D1117?style=for-the-badge&labelColor=111827&logo=windows&logoColor=00BFFF" alt="WinPEAS" />
@@ -225,7 +226,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
     <img class="badge" src="https://img.shields.io/badge/ntlmrelayx-0D1117?style=for-the-badge&labelColor=111827&logo=windows&logoColor=00BFFF" alt="ntlmrelayx" />
     <img class="badge" src="https://img.shields.io/badge/Tenable-0D1117?style=for-the-badge&labelColor=111827&logo=tenable&logoColor=00FFFF" alt="Tenable" />
     <img class="badge" src="https://img.shields.io/badge/Qualys-0D1117?style=for-the-badge&labelColor=111827&logo=qualys&logoColor=FF0000" alt="Qualys" />
-    <img class="badge" src="https://img.shields.io/badge/🛠️_Ghidra-0D1117?style=for-the-badge&labelColor=111827&logo=ghidra&logoColor=FFA500" alt="Ghidra" />
+    
   </div>
 </div>
 
