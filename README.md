@@ -131,8 +131,8 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
       src="https://img.shields.io/badge/Email%20Phishing%20Testing-1A1F2B?style=for-the-badge&labelColor=111827&logo=maildotru&logoColor=FFD700"></a>
     <a><img class="badge" alt="GitHub"
       src="https://img.shields.io/badge/GitHub-1A1F2B?style=for-the-badge&labelColor=111827&logo=github&logoColor=FFFFFF"></a>
-    <a><img class="badge" alt="WiFi"
-      src="https://img.shields.io/badge/WiFi-1A1F2B?style=for-the-badge&labelColor=111827&logo=ubiquiti&logoColor=FFFFFF"></a>
+    <a><img class="badge" alt="Wireless"
+      src="https://img.shields.io/badge/Wireless-1A1F2B?style=for-the-badge&labelColor=111827&logo=ubiquiti&logoColor=FFFFFF"></a>
 
   </div>
 </div>
