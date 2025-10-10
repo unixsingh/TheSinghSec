@@ -225,6 +225,7 @@ I'm **[`TheSinghSec`](https://www.linkedin.com/in/bikramjeetx/)**, a Security Re
     <img class="badge" src="https://img.shields.io/badge/ntlmrelayx-0D1117?style=for-the-badge&labelColor=111827&logo=windows&logoColor=00BFFF" alt="ntlmrelayx" />
     <img class="badge" src="https://img.shields.io/badge/Tenable-0D1117?style=for-the-badge&labelColor=111827&logo=tenable&logoColor=00FFFF" alt="Tenable" />
     <img class="badge" src="https://img.shields.io/badge/Qualys-0D1117?style=for-the-badge&labelColor=111827&logo=qualys&logoColor=FF0000" alt="Qualys" />
+    <img class="badge" src="https://img.shields.io/badge/🛠️_Ghidra-0D1117?style=for-the-badge&labelColor=111827&logo=ghidra&logoColor=FFA500" alt="Ghidra" />
   </div>
 </div>
 
